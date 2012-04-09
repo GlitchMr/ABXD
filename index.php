@@ -154,7 +154,7 @@ if(!file_exists($layout_themefile))
 //=======================
 // Print everything!
 
-require("layout.php");
+require("layout_nsmbhd.php");
 
 
 ?>
